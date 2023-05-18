@@ -9,11 +9,6 @@ import json
 
 
 
-app = FastAPI()
-deta = Deta("b0aa59j8_QhoGru9anmve36LGgnuCBam5A1MJAVpC")  # configure your Deta project 
-drive = deta.Drive("img") # access to your drive
-
-
 
 
 
